@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Simple Value]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-08-14T11:28:35+02:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://SimpleValue.github.io/atom.xml" rel="self"/>
+  <link href="http://SimpleValue.github.io/"/>
+  <updated>2013-08-14T12:09:16+02:00</updated>
+  <id>http://SimpleValue.github.io/</id>
   <author>
     <name><![CDATA[Simple Value]]></name>
     
@@ -15,10 +15,17 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://yoursite.com/blog/2013/08/12/hello-world/"/>
+    <link href="http://SimpleValue.github.io/blog/2013/08/12/hello-world/"/>
     <updated>2013-08-12T18:05:00+02:00</updated>
-    <id>http://yoursite.com/blog/2013/08/12/hello-world</id>
-    <content type="html"><![CDATA[
+    <id>http://SimpleValue.github.io/blog/2013/08/12/hello-world</id>
+    <content type="html"><![CDATA[<p>Hi, we develop software in Clojure.</p>
+
+<p>Clojure is a high level functional language that runs on the JVM, integrates
+well with the existing java ecosystem, provides sane semantics for concurrent
+programming while being extendible and more productive.</p>
+
+<p>We are a team of four, where each individual brings his unique background and
+knowledge to solve your problem, effectively.</p>
 ]]></content>
   </entry>
   
