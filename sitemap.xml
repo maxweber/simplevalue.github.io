@@ -2,7 +2,6 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://yoursite.com/blog/2013/08/12/hello-world/</loc>
-<<<<<<< HEAD
         <lastmod>2013-08-14T11:28:14+02:00</lastmod>
     </url>
     <url>
@@ -32,36 +31,5 @@
     <url>
         <loc>http://yoursite.com/team/</loc>
         <lastmod>2013-08-14T11:28:14+02:00</lastmod>
-=======
-        <lastmod>2013-08-14T11:04:46+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/archives/</loc>
-        <lastmod>2013-08-14T11:04:46+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2013-08-14T11:04:46+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/blog/</loc>
-        <lastmod>2013-08-14T11:04:46+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/</loc>
-        <lastmod>2013-08-14T11:04:46+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/new-page/</loc>
-        <lastmod>2013-08-14T11:04:46+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/robots.txt</loc>
-        <lastmod>2013-08-14T11:04:46+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://yoursite.com/team/</loc>
-        <lastmod>2013-08-14T11:04:46+02:00</lastmod>
->>>>>>> 06f1b6851aaa4ad0938cec0b3cf0706daeb795d7
     </url>
 </urlset>
