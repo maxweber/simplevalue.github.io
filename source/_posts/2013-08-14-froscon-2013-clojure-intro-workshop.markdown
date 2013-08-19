@@ -7,7 +7,8 @@ categories: introduction, clojure, conference, workshop
 ---
 
 We will host a Clojure Introduction Workshop at this year's
-[FrOSCon](http://www.froscon.de/startseite/), a local open source conference.
+[FrOSCon](http://www.froscon.de/startseite/), a local open source
+conference we helped organize.
 
 It will be a very pragmatic hands-on workshop, presenting basic
 syntax and usage patterns.
