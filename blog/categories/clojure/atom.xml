@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Simple Value]]></title>
-  <link href="http://SimpleValue.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: clojure, | Simple Value]]></title>
+  <link href="http://SimpleValue.github.io/blog/categories/clojure/atom.xml" rel="self"/>
   <link href="http://SimpleValue.github.io/"/>
   <updated>2013-08-19T15:46:34+02:00</updated>
   <id>http://SimpleValue.github.io/</id>
@@ -38,22 +38,6 @@ Participants can pair up and implement
 <strong>Room</strong>: C116/Lisp<br>
 <strong>Track</strong>: Lisp<br>
 <strong>Language</strong>: en<br></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://SimpleValue.github.io/blog/2013/08/12/hello-world/"/>
-    <updated>2013-08-12T18:05:00+02:00</updated>
-    <id>http://SimpleValue.github.io/blog/2013/08/12/hello-world</id>
-    <content type="html"><![CDATA[<p>Hi, we develop software in Clojure.</p>
-
-<p>Clojure is a high level functional language that runs on the JVM, integrates
-well with the existing java ecosystem, provides sane semantics for concurrent
-programming while being extendible and more productive.</p>
-
-<p>We are a team of four, where each individual brings his unique background and
-knowledge to solve your problem, effectively.</p>
 ]]></content>
   </entry>
   

@@ -2,42 +2,48 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://SimpleValue.github.io/blog/2013/08/12/hello-world/</loc>
-        <lastmod>2013-08-14T12:09:15+02:00</lastmod>
+        <lastmod>2013-08-19T15:46:00+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://SimpleValue.github.io/blog/2013/08/14/froscon-2013-clojure-intro-workshop/
+        </loc>
+        <lastmod>2013-08-19T15:46:33+02:00</lastmod>
     </url>
     <url>
         <loc>http://SimpleValue.github.io/about/</loc>
-        <lastmod>2013-08-14T11:53:26+02:00</lastmod>
+        <lastmod>2013-08-19T15:46:00+02:00</lastmod>
     </url>
     <url>
         <loc>http://SimpleValue.github.io/archives/</loc>
-        <lastmod>2013-08-14T12:09:15+02:00</lastmod>
+        <lastmod>2013-08-19T15:46:33+02:00</lastmod>
     </url>
     <url>
         <loc>http://SimpleValue.github.io/blog/archives/</loc>
-        <lastmod>2013-08-14T12:09:15+02:00</lastmod>
+        <lastmod>2013-08-19T15:46:33+02:00</lastmod>
     </url>
     <url>
         <loc>http://SimpleValue.github.io/blog/</loc>
-        <lastmod>2013-08-14T12:09:15+02:00</lastmod>
+        <lastmod>2013-08-19T15:46:33+02:00</lastmod>
     </url>
     <url>
         <loc>http://SimpleValue.github.io/</loc>
-        <lastmod>2013-08-14T12:09:15+02:00</lastmod>
+        <lastmod>2013-08-19T15:46:33+02:00</lastmod>
     </url>
     <url>
         <loc>http://SimpleValue.github.io/new-page/</loc>
-        <lastmod>2013-08-14T11:46:49+02:00</lastmod>
+        <lastmod>2013-08-19T15:46:00+02:00</lastmod>
     </url>
     <url>
         <loc>http://SimpleValue.github.io/portfolio/</loc>
-        <lastmod>2013-08-14T11:53:30+02:00</lastmod>
+        <lastmod>2013-08-19T15:46:00+02:00</lastmod>
     </url>
     <url>
         <loc>http://SimpleValue.github.io/robots.txt</loc>
-        <lastmod>2013-08-14T11:46:49+02:00</lastmod>
+        <lastmod>2013-08-19T15:46:00+02:00</lastmod>
     </url>
     <url>
         <loc>http://SimpleValue.github.io/team/</loc>
-        <lastmod>2013-08-14T11:46:49+02:00</lastmod>
+        <lastmod>2013-08-19T15:46:00+02:00</lastmod>
     </url>
 </urlset>
