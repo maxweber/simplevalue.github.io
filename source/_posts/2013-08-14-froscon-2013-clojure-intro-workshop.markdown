@@ -17,7 +17,7 @@ customizing [this project](https://github.com/SimpleValue/clojure-intro-workshop
 
 [More details here.](http://programm.froscon.org/2013/events/1251.html)
 
-Join us if you like:
+Join us!
 
 **Day**: 2013-08-24<br>
 **Start time**: 14:00 <br>
